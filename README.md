@@ -1,1 +1,1 @@
-# Text_Summarization_with_HuggingFace
+# Text Summarization with HuggingFace Transformers
